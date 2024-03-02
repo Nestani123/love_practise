@@ -1,5 +1,5 @@
 .main-header{
-    background-image: url("/img/us.jpg");
+    background-color: green;
     height: 696px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -20,9 +20,7 @@ gap: 32px;
 .nav-item{
     display: flex;
     justify-content: space-between;
-    color: white;
-
-}
+    }
 .description{
     position: absolute;
     bottom: 83px;
