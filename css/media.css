@@ -1,0 +1,36 @@
+@media all and (min-width: 834px){
+    .main-header{
+        height: 700px;
+        background-image: url("/img/header-backhround-medium.png");
+    }
+    .main-nav{
+        max-width: 776px;
+    }
+    .description{
+        font-size: 40px;
+    }
+}
+@media all and (min-width: 1024px){
+    .main-header{
+        height: 700px;
+        background-image: url("/img/header-background_large.png");
+    }
+    .main-nav{
+        max-width: 1280px;
+    }
+    .description{
+        font-size: 40px;
+    }
+}
+@media all and (min-width: 1024px){
+    .main-header{
+        height: 700px;
+        background-image: url("/img/header-background-xl.png");
+    }
+    .main-nav{
+        max-width: 1440px;
+    }
+    .description{
+        font-size: 40px;
+    }
+}
