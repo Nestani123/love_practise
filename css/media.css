@@ -9,6 +9,9 @@
     .description{
         font-size: 40px;
     }
+    .articles .article{
+        height: 300px;
+    }
 }
 @media all and (min-width: 1024px){
     .main-header{
